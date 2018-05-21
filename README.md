@@ -1,3 +1,5 @@
+The following readings are optional. They are provided for future reference. 
+
 # Data
 
 Drucker, Johanna. "[Humanities Approaches to Graphical Display](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html)", 2011.
