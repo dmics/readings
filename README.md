@@ -28,7 +28,7 @@ Wickham, Hadley. "[Tidy Data](https://www.jstatsoft.org/article/view/v059i10)," 
 
 Schultz, Kathryn. [“What is Distant Reading?” New York Times. June 26, 2011.](http://www.nytimes.com/2011/06/26/books/review/the-mechanic-muse-what-is-distant-reading.html)
 
-Jockers, Matthew. *Macroanalysis*. Introduction. (UR Electronic Resource)
+Jockers, Matthew. *Macroanalysis*. Introduction.
 
 *Graphs, Maps, Trees.* Verso. 2007.
 
