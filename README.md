@@ -23,6 +23,8 @@ Journal of Digital Humanities, 2013.
 
 Wickham, Hadley. "[Tidy Data](https://www.jstatsoft.org/article/view/v059i10)," 2014. Informal/code version [here](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html).
 
+Lincoln, Matthew. "[Best Practices for Using Google Sheets in your Data Project](https://matthewlincoln.net/2018/03/26/best-practices-for-using-google-sheets-in-your-data-project.html)"
+
 
 # Text Analysis
 
